@@ -1,0 +1,8 @@
+{
+  "name": "FIRE REDEEM",
+  "description": "Earn and redeem rewards with FIRE REDEEM. Withdraw your earnings via Google Play redeem codes or UPI instantly.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
